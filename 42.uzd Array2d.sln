@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42.uzd Array2d", "42.uzd Array2d\42.uzd Array2d.csproj", "{A686CA2B-407F-4418-BF61-60A7FD9DE24B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A686CA2B-407F-4418-BF61-60A7FD9DE24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A686CA2B-407F-4418-BF61-60A7FD9DE24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A686CA2B-407F-4418-BF61-60A7FD9DE24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A686CA2B-407F-4418-BF61-60A7FD9DE24B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6224009-EA80-4AFC-9319-5AAFEDFA4582}
+	EndGlobalSection
+EndGlobal
